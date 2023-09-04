@@ -1,0 +1,11 @@
+Name	:	Aruna
+Item	:	Pizza
+Price	:	200Name	:	Aruna
+Item	:	Pizza
+Price	:	200
+Name	:	Aruna
+Item	:	Pizza
+Price	:	150
+Name	:	Aruna
+Item	:	Pizza
+Price	:	150

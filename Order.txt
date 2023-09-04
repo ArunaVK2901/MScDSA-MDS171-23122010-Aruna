@@ -1,0 +1,14 @@
+Today's orders: 
+
+Name	:	Aruna
+Item	:	Pizza
+Price	:	100
+Quantity	:3
+Name	:	Jyosna
+Item	:	Pasta
+Price	:	200
+Quantity	:4
+Name	:	Parnavi
+Item	:	Aloo Fry
+Price	:	50
+Quantity	:2
