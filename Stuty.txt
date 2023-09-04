@@ -1,7 +1,0 @@
-
-Name	:	Stuty
-Item	:	Pasta
-Price	:	100
-Name	:	Stuty
-Item	:	Pasta
-Price	:	100
