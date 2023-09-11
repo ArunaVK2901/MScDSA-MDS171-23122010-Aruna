@@ -13,3 +13,5 @@ Email: aruna.vijaykumar@msds.christuniversity.in
 |2.|28-08-23|LAB 02|Name Collector's Quest|https://github.com/ArunaVK2901/MScDSA-MDS171-23122010-Aruna/blob/main/Lab02.ipynb|
 |3.|01-09-23|LAB 03|The Tale of Numbers' Harmony|https://github.com/ArunaVK2901/MScDSA-MDS171-23122010-Aruna/blob/main/Lab03.ipynb|
 |4.|04-09-23|LAB 04|A Taste of Success|https://github.com/ArunaVK2901/MScDSA-MDS171-23122010-Aruna/blob/main/Lab04.ipynb|
+|5.|08-09-23|LAB 05|Mix and Match Calculator|https://github.com/ArunaVK2901/MScDSA-MDS171-23122010-Aruna/tree/main/Lab%2005|
+|6.|11-09-23|LAB 06|Vowel Counter|https://github.com/ArunaVK2901/MScDSA-MDS171-23122010-Aruna/blob/main/Lab%2006.ipynb|
