@@ -5,7 +5,7 @@ Reg. No.: 23122010
 
 Class: MSc DS A
 
-Email: aruna.vijaykumar@msds.christuniversity.in
+Email: arunavk2901@gmail.com
 ## INDEX
 |SL.NO|DATE|NAME|QUESTION|URL|
 |:----:|:--:|:--:|:--:|:----:|
